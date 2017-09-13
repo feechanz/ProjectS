@@ -36,7 +36,18 @@
     </div>
   </div>
   <div class="col-md-4 col-sm-6">
-    <h1> hai</h1>
+    <div class="form-group">
+          <div class='input-group date' id='jadwaldatetimepicker'>
+              <input type='date' class="form-control" />
+              <span class="input-group-addon">
+                  <a href="#">
+                    <span class="fa fa-search">
+                    </span>
+                  </a>
+              </span>
+          </div>
+      </div>
+
   </div>
 
 </div>
